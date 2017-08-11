@@ -1,4 +1,4 @@
-# YouTubeSearchAndPlay
+# YouTube Search and Play
 
 A React App for Searching and Streaming YouTube Content. [Demo](http://humdrum.youtube-search-and-play.surge.sh/)
 
