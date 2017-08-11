@@ -6,7 +6,7 @@ A React App for Searching and Streaming YouTube Content.
 
 ### Getting Started
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the application as follows:
 
 ```
 > git clone https://github.com/jjrajani/youtube_search_and_play.git
