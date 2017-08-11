@@ -12,7 +12,7 @@ const API_KEY = 'AIzaSyC65e0itDIWnvwFnuCRaB70KEEFSAuxjX0';
 class App extends Component {
     constructor(props) {
       super(props);
-      this.videoSearch('surfboards');
+      this.videoSearch();
 
       this.state = {
         videos: [],
